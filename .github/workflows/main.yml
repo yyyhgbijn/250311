@@ -1,4 +1,4 @@
-name: sixhou4
+name: sixhou6
 on:
   schedule:
     - cron: '22 11,3 */2 * *'  # 每 4 小时运行一次
